@@ -1,4 +1,4 @@
-#✨ Kovid ✨
+# ✨ Kovid ✨
 
 This is a web application designed for the people effected by covid-19 based website in india.
 

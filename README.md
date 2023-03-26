@@ -26,31 +26,36 @@ Health bot
 -Provided information about the vaccines.
 -Covid Health Services.
 
-#Screenshots of the website
+# Screenshots of the website
 ##Home
 
-
-##About
-
+![Screenshot_20230326_200455](https://user-images.githubusercontent.com/109936304/227782925-34bb0acc-856b-4790-9d35-fe1da103ac86.png)
 
 
-
-##Contact
+## About
 
 
 
+## Sevices
 
-##Healthbot
 
 
+## Contact
 
 
 
 
+## Healthbot
 
-###Tech stack
-Azure (Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+
+
+
+
+
+
+### Tech stack
+-Azure (Hosting)
+-HTML
+-CSS
+-Bootstrap
+-JavaScript

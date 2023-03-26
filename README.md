@@ -1,4 +1,4 @@
-# ✨ Kovid ✨
+# Kovid 
 
 This is a web application designed for the people effected by covid-19 based website in india.
 
@@ -8,11 +8,11 @@ This is a web application designed for the people effected by covid-19 based web
 
 project demo video link -
 
-Azure technologies used for Project
+Azure technologies used for Project:
 Static web apps
 Health bot
 
-## Functionalities of web application😃
+## Functionalities of web application:
 -Latest and Updated of cases, deaths, vaccinations.
 -Vaccination Information: Also provided information about the COVID-19 vaccines.
 -Have an aesthetically visual affect and architecture. 
@@ -35,13 +35,19 @@ Health bot
 ## About
 
 
+![Screenshot_20230326_201300](https://user-images.githubusercontent.com/109936304/227783682-c1e2802f-ffce-4aa0-a114-5915b73f1901.png)
+
+
 
 ## Sevices
+![Screenshot_20230326_201410](https://user-images.githubusercontent.com/109936304/227783667-70b1c8ca-3241-47f0-99f4-9fe151a73863.png)
+
 
 
 
 ## Contact
 
+![Screenshot_20230326_201426](https://user-images.githubusercontent.com/109936304/227783661-1a094243-0033-46f4-95ab-fad801549f8e.png)
 
 
 
@@ -50,10 +56,12 @@ Health bot
 
 
 
+![Screenshot_20230326_201506](https://user-images.githubusercontent.com/109936304/227783653-7f7886f2-e0d5-4794-948f-93d6a511a23c.png)
 
 
 
 ### Tech stack
+
 -Azure (Hosting)
 -HTML
 -CSS

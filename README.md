@@ -6,13 +6,13 @@ This is a web application designed for the people effected by covid-19 based web
 
 **Project Link** - https://20a31a0583.github.io/projectr/ 
 
-project demo video link -
+project demo video link - https://youtu.be/FvNOTgMcy9s
 
 Azure technologies used for Project:
 
-Static web apps
+-Static web apps
 
-Health bot
+-Health bot
 
 ## Functionalities of web application:
 -Latest and Updated of cases, deaths, vaccinations.
